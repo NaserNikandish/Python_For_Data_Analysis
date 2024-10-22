@@ -7,3 +7,5 @@ This repository contains a collection of programming questions and answers desig
 ## [2- Python Collection Data Types](2_Python_Collection_Data_Types)
 - [Questions](2_Python_Collection_Data_Types/2_Questions.pdf): Contains the programming questions for handout 2 covering collection data types.
 - [Solution to Python Collection Data Types](2_Python_Collection_Data_Types/2_Solution_to_Python_Collection_Data_Types_Exercise_Questions.ipynb): This contains answers to all the programming questions for handout 2.
+
+## [3- Custom-Defined Functions](3_Custom_Defined_Functions)
