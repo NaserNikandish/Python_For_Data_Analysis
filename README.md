@@ -9,5 +9,5 @@ This repository contains a collection of programming questions and answers desig
 - [Solution to Python Collection Data Types](2_Python_Collection_Data_Types/2_Solution_to_Python_Collection_Data_Types_Exercise_Questions.ipynb): This contains answers to all the programming questions for handout 2.
 
 ## [3- Custom-Defined Functions](3_Custom_Defined_Functions)
-- [Questions](3_Costum_Defined_Functions/3_Questions.pdf): Contains the programming questions for handout 3 covering Python's costume-defined functions.
+- [Questions](3_Custom_Defined_Functions/3_Questions.pdf): Contains the programming questions for handout 3 covering Python's costume-defined functions.
 - [Solution to Python Costum-Defined Functions](3_Costum_Defined_Functions/3_Solution_To_Custom_Defined_Functions.ipynb): This contains answers to all the programming questions for handout 3.
