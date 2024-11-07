@@ -11,3 +11,7 @@ This repository contains a collection of programming questions and answers desig
 ## [3- Custom-Defined Functions](3_Custom_Defined_Functions)
 - [Questions](3_Custom_Defined_Functions/3_Questions.pdf): Contains the programming questions for handout 3 covering Python's costume-defined functions.
 - [Solution to Python Costum-Defined Functions](3_Custom_Defined_Functions/3_Solution_To_Custom_Defined_Functions.ipynb): This contains answers to all the programming questions for handout 3.
+
+## [4- Pracice Problems](4_Practice_Problems)
+- [Practice Problems](4_Practice_Problems/4_Pracice_Problems.pdf): A comprehensive list of questions to help you practice topics covered in the first three modules.
+- [Solution to Practice Problems](4_Practice_Problems/4_Solution_Pracice_Problems.ipynb): The solution to the above practice problems.
