@@ -16,6 +16,6 @@ This repository contains a collection of programming questions and answers desig
 - [Practice Problems](4_Practice_Problems/4_Pracice_Problems.pdf): A comprehensive list of questions to help you practice topics covered in the first three modules.
 - [Solution to Practice Problems](4_Practice_Problems/4_Solution_Pracice_Problems.ipynb): The solution to the above practice problems.
 
-## [5- Pracice Problems](5_Practice_Problems)
+## [5- Pracice Problems](5_Introduction_to_Pandas)
 - [Practice Problems](5_Introduction_to_Pandas/5_Questions.pdf): A small set of practice questions to help you practice essential topics on Pandas.
 - [Solution to Practice Problems](5_Introduction_to_Pandas/5_Solution_Pandas_Practice_Problems.ipynb): The solution to the above practice problems.
