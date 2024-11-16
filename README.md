@@ -22,6 +22,7 @@ This repository contains a collection of programming questions and answers desig
 
 ## [6- Pracice Problems](6_Exploratory_Data_Analysis)
 - [Questions](6_Exploratory_Data_Analysis/6_Questions.pdf): A set of questions to help you practice the basics of EDA in pandas.
+- [Purchase Records Dataset](6_Exploratory_Data_Analysis/6_Purcahse_Records_Dataset.csv): All of the [Questions](6_Exploratory_Data_Analysis/6_Questions.pdf) are based on this dataset. Please feel free to download it and run it locally on your computer.
 - [Solution to Exploratory_Data_Analysis Questions](6_Exploratory_Data_Analysis/6_Solution_EDA_Problems.ipynb): The solution to the above Questions.
 - [Handout Code](6_Exploratory_Data_Analysis/6_Handout_code.ipynb): This file contains all the code used in your handout. Please feel free to download it and run it locally on your computer.
-- [Purchase Records Dataset](6_Exploratory_Data_Analysis/6_Purcahse_Records_Dataset.csv): All of the [Questions](6_Exploratory_Data_Analysis/6_Questions.pdf) are based on this dataset. Please feel free to download it and run it locally on your computer.
+
