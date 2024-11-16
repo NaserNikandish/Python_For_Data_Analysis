@@ -20,7 +20,7 @@ This repository contains a collection of programming questions and answers desig
 - [Questions](5_Introduction_to_Pandas/5_Questions.pdf): A small set of practice questions to help you practice essential topics on Pandas.
 - [Solution to Practice Problems](5_Introduction_to_Pandas/5_Solution_Pandas_Practice_Problems.ipynb): The solution to the above practice problems.
 
-## [5- Pracice Problems](6_Exploratory_Data_Analysis)
+## [6- Pracice Problems](6_Exploratory_Data_Analysis)
 - [Questions](6_Exploratory_Data_Analysis/6_Questions.pdf): A set of questions to help you practice the basics of EDA in pandas.
 - [Solution to Exploratory_Data_Analysis Questions](6_Exploratory_Data_Analysis/6_Solution_EDA_Problems.ipynb): The solution to the above Questions.
 - [Handout Code](6_Exploratory_Data_Analysis/6_Handout_code.ipynb): This file contains all the code used in your handout. Please feel free to download it and run it locally on your computer.
