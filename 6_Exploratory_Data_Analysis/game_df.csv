@@ -1,8 +1,0 @@
-User_ID,Age,Gender,Country,Game_Score,Sessions,Device,App_Rating,Game_Type
-101,23,F,US,88.0,5,Mobile,4.5,"['Candy Crush', 'Angry Birds']"
-102,35,M,CA,92.0,8,Desktop,,['Fortnite']
-103,45,M,US,78.0,6,Tablet,3.8,['Clash of Clans']
-104,30,F,CA,85.0,9,Mobile,4.2,"['Minecraft', 'Among Us']"
-105,25,F,US,,3,Mobile,4.0,"['Pokémon GO', 'Angry Birds']"
-106,28,M,US,95.0,7,Desktop,4.7,['Candy Crush']
-107,33,F,US,82.0,4,Mobile,4.1,"['Among Us', 'Minecraft']"
