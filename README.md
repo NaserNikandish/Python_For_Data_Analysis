@@ -51,3 +51,7 @@ https://www.youtube.com/playlist?list=PLpejxWG_LJj7ff3lVT-yy8uEKGUVctw2B
 ### 🎥 Video Playlist
 ▶️ Watch the full Python playlist on YouTube:  
 https://www.youtube.com/playlist?list=PLpejxWG_LJj7ff3lVT-yy8uEKGUVctw2B
+
+
+## Author
+Naser Nikandish
