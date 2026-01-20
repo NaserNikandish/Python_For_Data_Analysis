@@ -4,7 +4,7 @@ This repository contains a collection of programming questions and answers desig
 - [Questions](1_Python_Fundamentals/1_Questions.pdf): Contains the programming questions for handout 1.
 - [Solution to Python Fundamentals Exercise Questions](1_Python_Fundamentals/1_Solution_to_Python_Fundamentals_Exercise_Questions.ipynb): This contains answers to all the programming questions for handout 1.
 
-## 🎥 Video Playlist
+### 🎥 Video Playlist
 ▶️ Watch the full Python playlist on YouTube:  
 https://www.youtube.com/playlist?list=PLpejxWG_LJj7ff3lVT-yy8uEKGUVctw2B
 
